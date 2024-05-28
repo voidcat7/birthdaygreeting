@@ -28,7 +28,7 @@ createConfetti();
 
 function calculateTimeRemaining() {
     const currentTime = new Date();
-    const targetDate = new Date("May 28, 2024 22:08:00");
+    const targetDate = new Date("May 29, 2024 00:00:00");
     const timeDifference = targetDate - currentTime;
 
     if (timeDifference <= 0) {
