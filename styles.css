@@ -148,7 +148,7 @@ body {
 .firework::before,
 .firework::after {
     --initialSize: 3vmin;
-    --finalSize: 100vmin;
+    --finalSize: 80vmin;
     --particleSize: 1vmin;
     --color1: yellow;
     --color2: khaki;
@@ -238,7 +238,7 @@ body {
     --color4: orchid;
     --color5: plum;
     --color6: lavender;
-    --finalSize: 100vmin;
+    --finalSize: 80vmin;
     left: 30%;
     top: 60%;
     animation-delay: -0.25s;
@@ -258,7 +258,7 @@ body {
     --color4: PaleTurquoise;
     --color5: SkyBlue;
     --color6: lavender;
-    --finalSize: 100vmin;
+    --finalSize: 80vmin;
     left: 70%;
     top: 60%;
     animation-delay: -0.4s;
